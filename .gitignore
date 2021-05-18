@@ -1,0 +1,16 @@
+refs/
+*.jpg
+*.wav
+*.json
+*.txt
+*.csv
+*.pdf
+.ipynb_checkpoints
+*.dat
+*.zip
+
+week-01/covariance.ipynb
+week-01/MI II - Sheet 1 Question 2.ipynb
+week-01/Question 1- MI1.ipynb
+week-02/MI II Sheet 2 Exercise 2.2.ipynb
+week-02/MI2 Exercise 2 - question 2.4.ipynb
